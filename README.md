@@ -1,4 +1,4 @@
-# Django E-commerce
+# E-commerce Project
 Django-ecommerce is an open-source ecommerce platform built on the Django Web Framework.
 ## Features Included
 - Custom Admin dashboard
